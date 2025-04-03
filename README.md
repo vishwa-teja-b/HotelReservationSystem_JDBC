@@ -93,8 +93,9 @@ Choose an Option:
 ---
 
 ## 📸 Demo Screenshot
+![image](https://github.com/user-attachments/assets/f74592ab-2ed8-4a36-bf69-9d923ce0701e)
 
-![image](https://github.com/user-attachments/assets/7112d6f3-bfb4-4d87-9f70-2c98b3a3af3c)
+
 
 
 ---
