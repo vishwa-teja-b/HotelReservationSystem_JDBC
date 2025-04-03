@@ -93,7 +93,7 @@ Choose an Option:
 ---
 
 ## 📸 Demo Screenshot
-📷 *Add a screenshot of your running program here!*
+```📷 *Add a screenshot of your running program here!*```
 ![image](https://github.com/user-attachments/assets/7112d6f3-bfb4-4d87-9f70-2c98b3a3af3c)
 
 
